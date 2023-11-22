@@ -21,16 +21,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wlsf82/curso-cypress-avancado.git"
+    "url": "git+https://github.com/luannoleto/cypress-avancado.git"
   },
   "keywords": [
     "cypress",
     "cypress.io",
     "testing"
   ],
-  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "author": "Luan Noleto <luancesarinfo@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/wlsf82/curso-cypress-avancado#readme",
+  "homepage": "https://github.com/luannoleto/cypress-avancado#readme",
   "devDependencies": {
     "cypress": "^13.5.1",
     "cypress-localstorage-commands": "^1.4.1",
