@@ -21,4 +21,3 @@ Nessa automação de testes automatizados com Cypress (Avançado) será abordado
 - Como simular erros no servidor e na rede ✔️
 - Como simular lentidão na chamada à uma API ✔️
 - Como modificar o relatório de testes padrão para um que combine com o seu estilo ✔️
-
